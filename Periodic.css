@@ -1,0 +1,112 @@
+.atomic-number{
+	font-size:10px;
+	padding-left: 5px;
+	color: white;
+}
+.atomic-solid{
+	border: solid 1px black;
+}
+
+td{
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: solid 1px black;
+	color: white;
+}
+.atomic-color1{
+	color: navyblue;
+}
+.colorb{
+	background-color: blue;
+}
+.colorb:hover{
+	background-color: white;
+	color: black;
+}
+.colorL{
+	background-color: fuchsia;
+}
+.colorL:hover{
+	background-color: black;
+	color: white;
+}
+.colorR{
+	background-color: red;
+}
+
+.colorR:hover{
+	background-color: black;
+	color: white;
+}
+.colorS{
+	background-color: silver;
+}
+.colorS:hover{
+	background-color: black;
+	color: white;
+}
+.colorC{
+	background-color: coral;
+}
+.colorC:hover{
+	background-color: black;
+	color: white;
+}
+.colorO{
+	background-color: orange;
+}
+.colorO:hover{
+	background-color: white;
+	color: black;
+}
+.colorA{
+	background-color: skyblue;
+}
+.colorA:hover{
+	background-color: black;
+	color: white;
+}
+.colorG{
+	background-color: green;
+}
+.colorG:hover{
+	background-color: black;
+	color: white;
+}
+.colorT{
+	background-color: teal;
+}
+.colorT:hover{
+	background-color: white;
+	color: black;
+}
+.colorK{
+	background-color: skyblue;
+}
+.colorK:hover{
+	background-color: black;
+	color: white;
+}
+.colorN{
+	background-color: #4646c6;
+}
+.colorN:hover{
+	background-color: white;
+	color: black;
+}
+.colorM{
+	background-color: maroon;
+}
+.colorM:hover{
+	background-color: black;
+	color: white;
+}
+#table1{
+	margin: 100px;
+	margin-bottom: 50px;
+}
+#pt{
+	margin: 185px;
+	margin-top: 0;
+}
